@@ -1,0 +1,101 @@
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlcyI6WyJjdXN0b20uc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIiXSwiZmlsZSI6ImN1c3RvbS5jc3MifQ== */
+
+.inner-page-title{
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 0;
+    color: #555;
+    padding-left: 5px;
+}
+.page-title-wrapper{
+    padding: 10px 10px 25px 10px;
+}
+
+.flatpickr-calendar.open {
+    z-index: 9999;
+}
+.invoice-detail-items{
+    padding: 0;
+}
+.invoice-detail-body{
+    padding: 30px;
+}
+
+.invoice-actions-btn{
+    padding: 30px;
+}
+.invoice-detail-total{
+    padding: 0;
+}
+.sidebar-menu-divider{
+    border-bottom: 1px solid #ddd;
+    margin-left: 36px;
+}
+.delete-item-row{
+    text-align: center;
+}
+.delete-item-row i{
+    font-size: 20px;
+    text-align: center;
+}
+
+.table > tbody > tr > td {
+    padding: 7px 10px;
+}
+
+.table > thead > tr > th{
+    padding: 10px 10px;
+}
+.ts-wrapper.form-control {
+    min-height: calc(1.5em + 0.75rem + 10px);
+}
+.ts-wrapper.form-control-sm {
+    min-height: calc(1.5em + 0.75rem + 5px);
+}
+
+.table:not(.dataTable) tbody tr td svg {
+    color: #fff;
+}
+#sidebar ul.menu-categories.ps {
+    height: calc(100vh - 100px) !important;
+}
+.delivery-item-note {
+    font-size: 15px;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+.delivery-item-note span{
+    font-weight: bold;
+}
+.tom-select + .btn.btn-sm {
+    padding: 0.3rem 1.25rem;
+}
+
+.stats-widgets .widget-title{
+    font-weight: bold;
+    font-size: 30px;
+}
+.stats-widgets .total-amount{
+    font-weight: bold;
+    font-size: 30px;
+}
+.invoice .content-section .inv--product-table-section td {
+    padding: 10px 10px;
+}
+
+.money-receipt-title{
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    color: #555555;
+    font-weight: bold;
+}
+
+.money-receipt-section{
+    margin-bottom: 10px !important;
+    padding-top: 10px !important;
+}
+.money-receipt-signature{
+    border-top: 1px solid #666666;
+}
